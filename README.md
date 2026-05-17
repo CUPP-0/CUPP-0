@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋 I'm Yusuf
+# Hi there 👋 I'm SuperCUPP
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=700&lines=Fullstack+Developer;AI+Enthusiast;Web+Developer;Building+Useful+Things+with+Technology" />
 
