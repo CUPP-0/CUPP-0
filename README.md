@@ -65,11 +65,11 @@ Developing a modern digital platform for online motorcycle credit applications.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yusufftibazma&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=CUPP-0&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=yusufftibazma&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=CUPP-0&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufftibazma&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CUPP-0&layout=compact&theme=tokyonight"/>
 
 </div>
 
